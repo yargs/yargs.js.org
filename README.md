@@ -48,7 +48,7 @@ Jekyll compiles directories in this repo to its own `_site` directory. You will 
 
 `community/` -- Our community page. It is to be built out.
 
-`css/main.scss` -- basic sass variables used accross site
+`css/main.scss` -- basic sass variables used across site
 
 `_sass/` -- sass layouts and other files.
 
